@@ -1,3 +1,3 @@
 # mips-binaries
 
-Some interesting golang binaries for MIPS
+Some interesting binaries for MIPS
