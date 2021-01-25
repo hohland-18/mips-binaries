@@ -1,3 +1,3 @@
 # mips-binaries
 
-Some interesting binaries for MIPS
+Some interesting binaries compiled for MIPS
