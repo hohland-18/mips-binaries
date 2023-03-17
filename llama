@@ -1,0 +1,5 @@
+#!/bin/sh
+export EDITOR=nano
+/tmp/shares/sda/B/bin/llama_bin
+exit 0
+
